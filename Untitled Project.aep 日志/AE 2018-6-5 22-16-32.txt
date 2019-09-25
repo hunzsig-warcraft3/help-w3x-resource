@@ -1,0 +1,12 @@
+Adobe After Effects v14.0 Windows 64 为项目“Untitled Project.aep”渲染日志
+
+渲染在“22:16:32”的“2018/6/5”上开始
+
+  “2018/6/5”“22:16:32”: 开始合成“Comp 1”。
+
+  输出到: F:\Program Files\魔兽争霸\魔兽制图\W3xMaker\jsqszl\Comp 1\Comp 1_[#####].jpg    “2018/6/5”“22:16:32”: 完成的合成“Comp 1”。
+
+
+  已用总时间: 0 秒
+日志在“22:16:32”的“2018/6/5”上关闭
+
